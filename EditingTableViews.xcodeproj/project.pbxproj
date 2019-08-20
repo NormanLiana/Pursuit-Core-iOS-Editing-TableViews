@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A5892A70230713BD004CBB7D /* AddItemsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5892A6F230713BD004CBB7D /* AddItemsViewController.swift */; };
 		CD8F80132305F3D300CB87B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD8F80122305F3D300CB87B0 /* AppDelegate.swift */; };
 		CD8F80152305F3D300CB87B0 /* ShoppingItemsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD8F80142305F3D300CB87B0 /* ShoppingItemsViewController.swift */; };
 		CD8F80182305F3D300CB87B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD8F80162305F3D300CB87B0 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A5892A6F230713BD004CBB7D /* AddItemsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemsViewController.swift; sourceTree = "<group>"; };
 		CD8F800F2305F3D300CB87B0 /* EditingTableViews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EditingTableViews.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD8F80122305F3D300CB87B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CD8F80142305F3D300CB87B0 /* ShoppingItemsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingItemsViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				CD8F80142305F3D300CB87B0 /* ShoppingItemsViewController.swift */,
 				CD8F80242305F41A00CB87B0 /* ShoppingItem.swift */,
 				CD8F80162305F3D300CB87B0 /* Main.storyboard */,
+				A5892A6F230713BD004CBB7D /* AddItemsViewController.swift */,
 				CD8F80192305F3DE00CB87B0 /* Assets.xcassets */,
 				CD8F801B2305F3DE00CB87B0 /* LaunchScreen.storyboard */,
 				CD8F801E2305F3DE00CB87B0 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CD8F80252305F41A00CB87B0 /* ShoppingItem.swift in Sources */,
+				A5892A70230713BD004CBB7D /* AddItemsViewController.swift in Sources */,
 				CD8F80152305F3D300CB87B0 /* ShoppingItemsViewController.swift in Sources */,
 				CD8F80132305F3D300CB87B0 /* AppDelegate.swift in Sources */,
 			);
